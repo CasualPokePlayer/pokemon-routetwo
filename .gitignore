@@ -1,5 +1,4 @@
 bin/
-outputs/
 local_routes/
 build/
 *.class

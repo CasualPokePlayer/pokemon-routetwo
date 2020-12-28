@@ -1,0 +1,212 @@
+ranges
+0x39A92 -lvranges -v 1 // chikorita rival
+
+// routes 30/31
+MIKEY -lvranges -v 1
+lm RAGE
+
+// falkners gym
+ABE -lvranges -v 3
+ROD -lvranges -v 3
+FALKNER -lvranges -v 3
+
+// route 32
+ALBERT -lvranges -v 1
+
+//union cave
+RUSSELL -lvranges -v 3
+lm WATERGUN
+RAY -lvranges -v 1
+
+// slowpoke well
+0x3A61A -lvranges -v 1 // rattatas
+0x3B63F -lvranges -v 1 // zubat and ekans
+0x3A4BC -lvranges -v 1 // rattata and zubats
+0x3A4B2 -lvranges -v 1 // koffing
+
+// bugsy gym
+AMY&MAY -lvranges -v 1 
+JOSH -lvranges -v 1
+BUGSY -lvranges -v 3
+
+evolve CROCONAW
+
+// azalea rival
+0x39AA4 -lvranges -v 1 -order 1/3/2
+
+um SCRATCH
+lm HEADBUTT
+
+// underground
+DONALD -lvranges -v 1
+TERU -lvranges -v 1
+
+// goldenrod gym
+CARRIE -lvranges -v 1 
+WHITNEY -lvranges -v 3
+um LEER
+lm BITE
+
+// route 37
+GREG -lvranges -v 1 
+
+// Kimono Girls
+NAOKO -lvranges -v 1   // FLAREON
+ZUKI -lvranges -v 1    // UMBREON
+SAYO -lvranges -v 1    // ESPEON
+pokerus
+KUNI -lvranges -v 1    // VAPOREON
+MIKI -lvranges -v 3    // JOLTEON
+
+um RAGE
+lm SURF
+
+// mortys gym
+PING -lvranges -v 1
+JEFFREY -lvranges -v 1 
+MARTHA -lvranges -v 1
+MORTY  -lvranges -v 1
+
+// lighthouse
+ALFRED -lvranges -v 1
+PRESTON -lvranges -v 1 
+
+CONNIE -lvranges -v 1 
+
+// cianwood
+
+um WATERGUN
+lm STRENGTH
+
+YOSHI -lvranges -v 1 
+LAO -lvranges -v 1 
+NOB -lvranges -v 1 
+evolve FERALIGATR
+LUNG -lvranges -v 1 
+CHUCK -lvranges -v 1
+
+// jasmine
+JASMINE -lvranges -v 1 
+
+// rocket base
+0x3A5A8 -lvranges -v 1 // alarm 1 (drowzee, zubat)
+0x3A5B4 -lvranges -v 1 // alarm 2 (zubat, grimer, rattata)
+JED -lvranges -v 1 
+
+0x3A59C -lvranges -v 1  // venonats
+ROSS -lvranges -v 1 
+0x3B671 -lvranges -v 1 // password 1 (ekans, gloom)
+MITCH -lvranges -v 1 
+0x3A610 -lvranges -v 1  // password 2 (raticate)
+0x3A58E -lvranges -v 1 // the not-spinner (rattata, zubat, rattata)
+0x3B03F -lvranges -v 1 // executive: zubat, raticate, koffing
+0x3B306 -lvranges -v 1 // female executive: arbok, gloom, murkrow
+L23 ELECTRODE 15 15 15 15 -v 1 
+L23 ELECTRODE 0 0 0 0 -v 1 
+L23 ELECTRODE 9 8 8 8 -v 1 
+
+// pryce
+PRYCE -lvranges -v 1
+
+
+VANCE -lvranges -v 1
+
+// radio tower 1
+0x3A4CA -lvranges -v 1 // raticates
+0x3A4F6 -lvranges -v 1 // zubats
+lm IRONTAIL
+um HEADBUTT
+0x3A4D6 -lvranges -v 1 // grimer grimer muk
+0x3A502 -lvranges -v 1 // koffing grimer zubat rattata
+MARC -lvranges -v 1 
+RICH -lvranges -v 1 
+0x3B00F -lvranges -v 1 // executive with koffings & weezing
+
+// underground
+0x39B16 -lvranges -v 1 -order 1/2/5/3/4 // rival 4
+0x3A552 -lvranges -v 1 // single rattata
+0x3A536 -lvranges -v 1 // muk, koffing, rattata
+0x3A5EA -lvranges -v 1 // koffing, muk
+EDDIE -lvranges -v 1 
+DUNCAN -lvranges -v 1
+0x3B655 -lvranges -v 1 // glooms
+0x3A55C -lvranges -v 1 // raticate, golbat
+0x3A568 -lvranges -v 1 // grimer, weezing
+0x3A5DE -lvranges -v 1 // koffingx2
+
+// radio tower 2
+0x3A51C -lvranges -v 1 // raticate, koffing
+0x3A5C2 -lvranges -v 1 // golbat
+0x3B2E8 -lvranges -v 1 -order 1/3/2 // arbok, vileplume, murkrow
+0x3AFDF -lvranges -v 1 // houndour, koffing, houndoom
+
+// blackthorn city
+PAUL -lvranges -v 1 
+FRAN -lvranges -v 1 
+CODY -lvranges -v 1 
+LOLA -lvranges -v 1 
+CLAIR -lvranges -v 1
+
+// road to e4
+BLAKE -lvranges -v 1
+RICHARD -lvranges -v 1 
+
+// Heal House
+GAVEN -lvranges -v 1 
+JAKE -lvranges -v 1 
+BETH -lvranges -v 1 
+0x39B7C -lvranges -v 1 -order 1/3/6/2/4/5 // rival 5
+
+// e4
+WILL -lvranges -v 1 -order 1/4/5/3/2
+KOGA -lvranges -v 1 -order 1/3/4/5/2
+BRUNO -lvranges -v 3 -order 1/4/5/2/3
+KAREN -lvranges -v 1 -order 1/3/4/5/2
+LANCE -lvranges -v 1 -xatk 1 -order 1/5/2/3/4/6
+
+// ssaqua
+STANLY -lvranges -v 1 
+
+// rock tunnel
+JIM -lvranges -v 1
+
+// sabrina
+SABRINA -lvranges -v 1
+
+// nugget bridge
+DUDLEY -lvranges -v 1
+ELLEN -lvranges -v 1
+JOE -lvranges -v 1
+LAURA -lvranges -v 1
+LLOYD -lvranges -v 1
+SHANNON -lvranges -v 1
+PAT -lvranges -v 1
+
+// misty
+MISTY -lvranges -v 1
+
+// erika
+JO&ZOE -lvranges -v 1
+TANYA -lvranges -v 1
+JULIA -lvranges -v 1
+ERIKA -lvranges -v 1
+
+// surge
+GREGORY -lvranges -v 1
+LT.SURGE -lvranges -v 1
+
+// brock
+JERRY -lvranges -v 1
+BROCK -lvranges -v 1
+
+// blaine
+BLAINE -lvranges -v 1
+
+// janine
+JANINE -lvranges -v 1
+
+// blue
+BLUE -lvranges -v 3 -order 1/5/3/4/2/6
+
+// red
+RED -lvranges -v 1 -xatk 2 -xspd 1 -order 1/4/2/3/6/5
